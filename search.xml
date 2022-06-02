@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>实验记录-使用指南</title>
+    <url>/2022/06/02/lab-records-readme/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="e6fd732092e0563ea0a9f3df52fcbbddde821822f24959a9faebf72ed583d103">dd8cbc7a5e56fe5f2fe0fce318edb80f2693ab30bb5ffebd538dd42c7bd5bbf6a98bfcafcb798b0002c4945cfcca805b10ed5c8c57ff4c63970fbb6d9505e029ec63fdd11e619d3a1a12c928adad86ebb23415c4e5ccb9ee741b67205f420290032596844c9009bc99efc2c5801efc5031bc029a4425eb3cb6479aa551da314d2d108079272a5b0dd5ae6736a297bbc4c057b981f854b31a184b9d7868c25e88336d4447c88bf8ac2d1f245c9c838d29fb59a1b3a514ccfc82d9db03933c0194501d0510856e732a3b767d3aa824e412318478a0910e84e64111fc67845638e393e969cbb7f1b7794ea10a1cf0889ed8b5fb66c3559a7c72f340d62bb5320f0029c68595e0466fcb8bd370866f5f63512188774eca0bae717db7daa4337c916459d28afd3bc64f1e1ca5518e32a2071ba8311c6416b89e8fdc8a54c2911141a73835a35b616372b87883303783eb783e9ddc7c10b619da5814f8e64876744398d588905911b4d094fa64679b278707b8418754b6819f7ac1aae1705111065dd5813e5e86d3a94c2cadda28099c944aef01d78009c1fcb41d276e5d0b66483852fa0c8b691052d28b8da01672dd0976ab3913a78e781b1980752ded1ff81dcf7e42a63840ff689ad9cf1a42639df81649fd1423bcb81ded034283f661888991d7fe227d7af06300889b585d90f73dae61e5aa6339843ab4c5793a2cdf00d95a37bd0ee3ed0cb688c98c02f0d6e995747cf0b7eb64090227d027c6e5a296c98d49210eab40ba45dce9f7f98299e540d9d2aab95b59779bc36002e78d0a17751126551912231d3bd47bca65ed42086482212a22ca65082a579113cd28ecbd16c84cef43aec3fa9930d4d5386bbcdb1c026e0ad71b04b1d002c99a907b5d045066d9b1bbef8a51f151e764b9106223a2efea23222e29ce8e26a167cbe17be530566893d0eb15cafd972612fd033624d215d8e2967a4a4db7c3dcab9125a583bec8ef392ccc00b10650389c6a3a90e53cc56ce310e8109b3d20969918c9bb75f516bde23183d044c30c4bfb391322c4b4b584c757b4dd0e9db5ddd15e47099971cb8bc253d1bcb196b530261ca0b0981b89c7edee9acd04df30e12a9f289da61c6a40423795cd37c3743bd22bccf4a5266aa44a4f8acafbb376c3e1477731f3e21e2f5e3fa13017c08e50f70fa404d2cbfd7d5e94721739b44cd5e215e3f73f91c0e5cbd2a3848a08fcf6a811aadea41593b6531e0dd630e0fc155b6171a9011823ea503694e116c577898d80400173f30e004fc2c0411cdcabc0d925cce6c7978a344113fab59a2a526a8b6effc151e8f122034a95e27c73720b81512ca57f7247829d04c8561316f5da4f08014db0e8191e53bef3c7425cee9b259d6a62a8b601864d86f9c0f000245b47d569db8ee0cfc19bb1671d2b523d510ce58a183b33ca92652c7e7a3c7e8c486508ee855bc427f97d651af250aaf9c48423f6ad01e9c3f7c12c41860b3419fd986e216123520d949acefbb4290da9f8a6fe77721010f1e56353eeeb060ae7d43731c7a1599ac25e8caedc38937af8d1b95a201b89dc89e2ba2e4e216ef8d487cd07d0766d06bb20ad961aa62a367e34fa266df10a1cf0f7eda2b233b5e4e5188a42a2f41feaabf6b33883bc39b8ed43f5072657ec006b19eb0bb2a5ebf4c05175ef6e65153d3b9f1c3e63760f1dc91486ea7213b676d836fdb713648bdb1d392b976506d5cda1826fb7c0df80fc05ea3845a97102ef7e76</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-wave">
+      <input class="hbe hbe-input-field hbe-input-field-wave" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-wave" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-wave">Hey, password is required here.</span>
+      </label>
+      <svg class="hbe hbe-graphic hbe-graphic-wave" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">
+        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>
+      </svg>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>南翔大田</category>
+      </categories>
+  </entry>
+  <entry>
     <title>南翔大田-2022.06.02</title>
     <url>/2022/06/02/lab-records-20220602/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
@@ -224,7 +246,7 @@
     <title>南翔大田-2022.05.13</title>
     <url>/2022/05/13/lab-records-20220513/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="74234294fff03b93aa508635497ed9133f1dbf079fb00ad78ba6fd91966106c4">dd8cbc7a5e56fe5f2fe0fce318edb80f2693ab30bb5ffebd538dd42c7bd5bbf6d5e527a2edad981297f2913a0c39f9255a3411e687389b895430981294d8fbfde5dcd3d798833269bbbb84fa12dd819da65ae6405003b465d2fde33f74fdf780d744e4c0f71020db46382e502a6ca3fcc31c5c463270958debab88a1cad4e42795b06a6a191bd66d18ee7fe9a68a689e9b176f58db49aa38b48e8207d56d6999926c829e05669e11bee71eb9b9ee5b637de791b49fd5f9465594a32682f752a56863aa27db2332efbb62aabb947542bf05e3e1758a9c0baea048fd3cb812b6488d6625af4cd6ac5d954c2405b043a402d08fbc3b6e9a0d9a76eaa2386019d75a00a1b85fa7c919247c24cfc48783ce1c4f37bd99bd68261edec87c44113a9f688879359b88da8226139b5dca55a0ac40</script>
+  <script id="hbeData" type="hbeData" data-hmacdigest="3811caaf9281a3f0ee7a8e724adfd8a76630a99b313ee72935110017e073909c">dd8cbc7a5e56fe5f2fe0fce318edb80f2693ab30bb5ffebd538dd42c7bd5bbf6d5e527a2edad981297f2913a0c39f9255a3411e687389b895430981294d8fbfde5dcd3d798833269bbbb84fa12dd819da65ae6405003b465d2fde33f74fdf780d744e4c0f71020db46382e502a6ca3fcc31c5c463270958debab88a1cad4e42795b06a6a191bd66d18ee7fe9a68a689e9b176f58db49aa38b48e8207d56d6999926c829e05669e11bee71eb9b9ee5b637de791b49fd5f9465594a32682f752a56863aa27db2332efbb62aabb947542bf05e3e1758a9c0baea048fd3cb812b6488d6625af4cd6ac5d954c2405b043a402d08fbc3b6e9a0d9a76eaa2386019d75a00a1b85fa7c919247c24cfc48783ce1c4f37bd99bd68261edec87c44113a9f682a7fdea22aae1200c81ead6a078194b8bcf8416d9d44e9f81878dad302fd4eca0abf0f333699144d928428f121f6ec6731ac53d9048ada05ef4496d9d76183691896c5532909ddc8ab580ee2a8285635e62b67d997cd84a3f8aa34531d764a84ee162ac95354ccde505042f6f8422656c67d1769f6175634b6f9eee77935979f8b3f093a286907de84a60d18d23051a5</script>
   <div class="hbe hbe-content">
     <div class="hbe hbe-input hbe-input-wave">
       <input class="hbe hbe-input-field hbe-input-field-wave" type="password" id="hbePass">
