@@ -9,22 +9,22 @@
 						"menu_list": [
 							{
 								"name": "修罗动漫",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
 								"link": "https://www.xiuluodm.com/"
 							},
 							{
 								"name": "次元方舟",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
 								"link": "https://www.cyfz.vip/"
 							},
 							{
 								"name": "FreeOk",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
 								"link": "https://www.freeok.vip/"
 							},
 							{
 								"name": "拖布影视",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
 								"link": "https://www.rainvi.com/"
 							}
 						]
@@ -34,41 +34,41 @@
 						"menu_list": [
                             {
 								"name": "腾讯视频",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.v.qq.com/"
 							},{
 								"name": "爱奇艺",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.iqiyi.com/"
 							},
 							{
 								"name": "优酷视频",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://www.youku.com/"
 							},
                             {
 								"name": "AnFuns",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://www.anfuns.cc/"
 							},
 							{
 								"name": "芒果TV",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.mgtv.com/"
 							},
 							{
 								"name": "乐视视频",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.le.com/movie/"
 							},
 							{
 								"name": "PPTV",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.pptv.com/"
 							},
 							{
 								"name": "搜狐视频",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.tv.sohu.com/"
 							}
 						]
@@ -77,42 +77,42 @@
 						"menu_name": "直播平台",
 						"menu_list": [{
 								"name": "英雄联盟",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://lpl.qq.com/"
 							},
 							{
 								"name": "新闻看看",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.kankanews.com/live"
 							},
 							{
 								"name": "斗鱼直播",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.douyu.com/"
 							},
 							{
 								"name": "虎牙直播",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.huya.com/"
 							},
 							{
 								"name": "战旗直播",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.zhanqi.tv/"
 							},
 							{
 								"name": "体育直播",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://www.zhibo.tv/"
 							},
 							{
 								"name": "网易视频",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": " https://m.163.com/"
 							},
 							{
 								"name": "直播吧",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.zhibo8.com/"
 							}
 						]
@@ -121,22 +121,22 @@
 						"menu_name": "视频解析",
 						"menu_list": [{
 								"name": "线路",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
 								"link": "/pages/app-analyze-video/app-analyze-video"
 							},
 							{
 								"name": "动漫站点",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
 								"link": "https://ayouth.top/ayouth/animation.html"
 							},
 							{
 								"name": "影视站点",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
 								"link": "https://ayouth.top/ayouth/video.html"
 							},
 							{
 								"name": "浏览器",
-								"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
 								"link": "https://www.lisect.com/"
 							}
 						]
@@ -153,22 +153,22 @@
 					"menu_name": "监控指标",
 					"menu_list": [{
 							"name": "保温箱监控",
-							"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
 							"link": "/pages/app-goods-list/app-goods-list"
 						},
 						{
 							"name": "箱体定位",
-							"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
 							"link": "/pages/app-list/app-list"
 						},
 						{
 							"name": "实时数据",
-							"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
 							"link": "/pages/app-health/app-health"
 						},
 						{
 							"name": "地图定位",
-							"icon": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
 							"link": "/pages/app-map/app-map"
 						}
 					]
@@ -179,7 +179,7 @@
 			"first_menu": {
 				"permission": "guest",
 				"description": "非授权用户访问",
-				"background_image": "https://ranmaxli.gitee.io/blog/services/app/uniapp_my_app/png/code-loading.png",
+				"background_image": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/code-loading.png",
 				"second_menu": null
 			}
 		}
