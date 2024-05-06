@@ -1,0 +1,112 @@
+@font-face {
+    font-family: "HarmonyOS Sans SC Regular";
+    font-style: normal;
+    /* font-weight: 400; */
+    font-display: swap;
+    src: local("HarmonyOS Sans SC Regular"), local("HarmonyOS Sans SC"), url("./fonts/HarmonyOS_Sans_SC_Regular_0.woff2") format("woff2");
+    unicode-range: U+1EAE-3C49
+}
+
+@font-face {
+    font-family: "HarmonyOS Sans SC Regular";
+    font-style: normal;
+    /* font-weight: 400; */
+    font-display: swap;
+    src: local("HarmonyOS Sans SC Regular"), local("HarmonyOS Sans SC"), url("./fonts/HarmonyOS_Sans_SC_Regular_1.woff2") format("woff2");
+    unicode-range: U+3C4A-460D
+}
+
+@font-face {
+    font-family: "HarmonyOS Sans SC Regular";
+    font-style: normal;
+    /* font-weight: 400; */
+    font-display: swap;
+    src: local("HarmonyOS Sans SC Regular"), local("HarmonyOS Sans SC"), url("./fonts/HarmonyOS_Sans_SC_Regular_2.woff2") format("woff2");
+    unicode-range: U+460E-501B
+}
+
+@font-face {
+    font-family: "HarmonyOS Sans SC Regular";
+    font-style: normal;
+    /* font-weight: 400; */
+    font-display: swap;
+    src: local("HarmonyOS Sans SC Regular"), local("HarmonyOS Sans SC"), url("./fonts/HarmonyOS_Sans_SC_Regular_3.woff2") format("woff2");
+    unicode-range: U+501C-59DF
+}
+
+@font-face {
+    font-family: "HarmonyOS Sans SC Regular";
+    font-style: normal;
+    /* font-weight: 400; */
+    font-display: swap;
+    src: local("HarmonyOS Sans SC Regular"), local("HarmonyOS Sans SC"), url("./fonts/HarmonyOS_Sans_SC_Regular_4.woff2") format("woff2");
+    unicode-range: U+59E0-63A3
+}
+
+@font-face {
+    font-family: "HarmonyOS Sans SC Regular";
+    font-style: normal;
+    /* font-weight: 400; */
+    font-display: swap;
+    src: local("HarmonyOS Sans SC Regular"), local("HarmonyOS Sans SC"), url("./fonts/HarmonyOS_Sans_SC_Regular_5.woff2") format("woff2");
+    unicode-range: U+63A4-6D67
+}
+
+@font-face {
+    font-family: "HarmonyOS Sans SC Regular";
+    font-style: normal;
+    /* font-weight: 400; */
+    font-display: swap;
+    src: local("HarmonyOS Sans SC Regular"), local("HarmonyOS Sans SC"), url("./fonts/HarmonyOS_Sans_SC_Regular_6.woff2") format("woff2");
+    unicode-range: U+6D68-772B
+}
+
+@font-face {
+    font-family: "HarmonyOS Sans SC Regular";
+    font-style: normal;
+    /* font-weight: 400; */
+    font-display: swap;
+    src: local("HarmonyOS Sans SC Regular"), local("HarmonyOS Sans SC"), url("./fonts/HarmonyOS_Sans_SC_Regular_7.woff2") format("woff2");
+    unicode-range: U+772C-80EF
+}
+
+@font-face {
+    font-family: "HarmonyOS Sans SC Regular";
+    font-style: normal;
+    /* font-weight: 400; */
+    font-display: swap;
+    src: local("HarmonyOS Sans SC Regular"), local("HarmonyOS Sans SC"), url("./fonts/HarmonyOS_Sans_SC_Regular_8.woff2") format("woff2");
+    unicode-range: U+80F0-8AB3
+}
+
+@font-face {
+    font-family: "HarmonyOS Sans SC Regular";
+    font-style: normal;
+    /* font-weight: 400; */
+    font-display: swap;
+    src: local("HarmonyOS Sans SC Regular"), local("HarmonyOS Sans SC"), url("./fonts/HarmonyOS_Sans_SC_Regular_9.woff2") format("woff2");
+    unicode-range: U+8AB4-9477
+}
+
+@font-face {
+    font-family: "HarmonyOS Sans SC Regular";
+    font-style: normal;
+    /* font-weight: 400; */
+    font-display: swap;
+    src: local("HarmonyOS Sans SC Regular"), local("HarmonyOS Sans SC"), url("./fonts/HarmonyOS_Sans_SC_Regular_10.woff2") format("woff2");
+    unicode-range: U+9478-9E3B
+}
+
+@font-face {
+    font-family: "HarmonyOS Sans SC Regular";
+    font-style: normal;
+    /* font-weight: 400; */
+    font-display: swap;
+    src: local("HarmonyOS Sans SC Regular"), local("HarmonyOS Sans SC"), url("./fonts/HarmonyOS_Sans_SC_Regular_11.woff2") format("woff2");
+    unicode-range: U+9E3C-E864
+}
+
+body {
+    /* 设置字体 */
+    font-family: "HarmonyOS Sans SC Regular", sans-serif !important;
+}

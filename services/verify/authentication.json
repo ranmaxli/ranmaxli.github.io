@@ -1,0 +1,24 @@
+{
+	"uniapp": {
+		"description": "应用的详细说明信息",
+		"authorization_list": [{
+				"authorization_object": "内部测试使用",
+				"authorization_start_time": "2023-12-13 11:59:59",
+				"authorization_end_time": "2023-12-31 23:59:59",
+				"authorization_code": "47B05850241AA5602621EC1A1F6121B7"
+			},
+			{
+				"authorization_object": "内部测试使用",
+				"authorization_start_time": "2023-12-13 11:59:59",
+				"authorization_end_time": "2023-12-31 23:59:59",
+				"authorization_code": "0728B10507EBF54ACC9FE3734F54B03E"
+			},
+			{
+				"authorization_object": "客户演示使用",
+				"authorization_start_time": "2023-12-13 11:59:59",
+				"authorization_end_time": "2023-12-31 23:59:59",
+				"authorization_code": "76F5CFF4A19DE231CC8863C080CEFE2D"
+			}
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"default": {
+		"notification": "欢迎使用",
+		"is_program_available": true
+	},
+	"uniapp": {
+		"notification": "所有发布的功能服务、破解补丁、注册机及注册信息和软件解密分析文章仅用于学习和研究目的； 以上内容不得用于商业或非法用途，否则一切后果由用户自行承担。",
+		"is_program_available": true
+	}
+}

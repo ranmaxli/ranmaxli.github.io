@@ -1,0 +1,283 @@
+/* 声名部分变量 */
+:root {
+  --cxl2020mc-radius: 7px;
+  --cxl2020mc-card-border-width: 1px;
+}
+
+/* 浅色模式颜色 */
+[data-theme=light] {
+  --cxl2020mc-border-color: #e3e8f7;
+  --cxl2020mc-card-bg: #fff;
+  --cxl2020mc-card-border: #e3e8f7;
+  --style-border-always: 1px solid var(--cxl2020mc-card-border);
+  --cxl2020mc-blue: #425AEF;
+
+  --cxl2020mc-fontcolor: #363636;
+  --cxl2020mc-fontcolor-re: #F7F7FA;
+}
+
+/* 深色模式颜色 */
+[data-theme=dark] {
+  --cxl2020mc-border-color: #42444a;
+  --cxl2020mc-card-bg: #1d1b26;
+  --cxl2020mc-card-border: #42444a;
+  --style-border-always: 1px solid var(--cxl2020mc-card-border);
+  --cxl2020mc-blue: #0084FF;
+
+  --cxl2020mc-fontcolor: #F7F7FA;
+  --cxl2020mc-fontcolor-re: #363636;
+}
+
+/* 缩进Aplayer的全局吸底音乐标签 */
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+  left: -66px !important;
+  /* 默认情况下缩进左侧66px，只留一点箭头部分 */
+}
+
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+  left: 0 !important;
+  /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
+}
+
+
+
+/* 评论区 */
+
+/* 设置文字内容 :nth-child(1)的作用是选择第几个 */
+.el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(1):before {
+  content: '输入QQ号会自动获取昵称和头像🐧';
+}
+
+.el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(2):before {
+  content: '收到回复将会发送到您的邮箱📧';
+}
+
+.el-input.el-input--small.el-input-group.el-input-group--prepend:nth-child(3):before {
+  content: '可以通过昵称访问您的网站🔗';
+}
+
+/* 当用户点击输入框时显示 */
+.el-input.el-input--small.el-input-group.el-input-group--prepend:focus-within::before,
+.el-input.el-input--small.el-input-group.el-input-group--prepend:focus-within::after {
+  display: block;
+}
+
+/* 主内容区 */
+.el-input.el-input--small.el-input-group.el-input-group--prepend::before {
+  /* 先隐藏起来 */
+  display: none;
+  /* 绝对定位 */
+  position: absolute;
+  /* 向上移动60像素 */
+  top: -60px;
+  /* 文字强制不换行，防止left:50%导致的文字换行 */
+  white-space: nowrap;
+  /* 圆角 */
+  border-radius: 10px;
+  /* 距离左边50% */
+  left: 50%;
+  /* 然后再向左边挪动自身的一半，即可实现居中 */
+  transform: translate(-50%);
+  /* 填充 */
+  padding: 14px 18px;
+  background: #444;
+  color: #fff;
+}
+
+/* 小角标 */
+.el-input.el-input--small.el-input-group.el-input-group--prepend::after {
+  display: none;
+  content: '';
+  position: absolute;
+  /* 内容大小（宽高）为0且边框大小不为0的情况下，每一条边（4个边）都是一个三角形，组成一个正方形。
+  我们先将所有边框透明，再给其中的一条边添加颜色就可以实现小三角图标 */
+  border: 12px solid transparent;
+  border-top-color: #444;
+  left: 50%;
+  transform: translate(-50%, -48px);
+}
+
+
+/* 侧边栏图片圆角 */
+/* 2022-12-3 修复悬浮放大图片圆角消失问题 */
+#aside-content .aside-list>.aside-list-item .thumbnail {
+  /* 圆角 */
+  border-radius: var(--cxl2020mc-radius);
+}
+
+/* 侧边栏TOC目录圆角 */
+#aside-content #card-toc .toc-content .toc-link.active {
+  /* 圆角 */
+  border-radius: var(--cxl2020mc-radius);
+}
+
+/* GitHub按钮圆角 */
+#card-info-btn {
+  /* 圆角 */
+  border-radius: var(--cxl2020mc-radius);
+}
+
+/* GitHub按钮样式(为了在别的地方能用) */
+.cxl2020mc-card-info-btn {
+  display: block;
+  margin-top: 14px;
+  background-color: var(--btn-bg);
+  color: var(--btn-color) !important;
+  text-align: center;
+  line-height: 2.4;
+  border-radius: var(--cxl2020mc-radius);
+}
+
+.cxl2020mc-card-info-btn:hover {
+  background-color: var(--btn-hover-color);
+}
+
+.cxl2020mc-card-info-btn span {
+  padding-left: 10px;
+}
+
+/* 版权信息圆角 */
+#post .post-copyright {
+  border-radius: var(--cxl2020mc-radius);
+}
+
+/* 打赏按钮圆角 */
+.post-reward .reward-button {
+  border-radius: var(--cxl2020mc-radius);
+}
+
+/* 微信分享弹窗美化 */
+.social-share .icon-wechat .wechat-qrcode {
+  border: none !important;
+  border-radius: var(--cxl2020mc-radius);
+  background-color: var(--card-bg) !important;
+}
+
+.social-share .icon-wechat .wechat-qrcode h4 {
+  background-color: var(--card-bg) !important;
+  border-radius: var(--cxl2020mc-radius);
+}
+
+/* Twikoo评论区美化 */
+
+/*
+@media screen and (max-width: 768px) {
+  .twikoo .tk-comments-container>.tk-comment {
+    padding: 1rem;
+    border-radius: var(--cxl2020mc-radius);
+    box-shadow: var(--card-hover-box-shadow);
+    background: var(--cxl2020mc-card-bg);
+    transition: .3s;
+  }
+}
+*/
+
+
+
+/* 评论区评论大框 */
+.twikoo .tk-comments-container>.tk-comment {
+  /* 内边距 */
+  padding: 1rem;
+  /* 圆角 */
+  border-radius: var(--cxl2020mc-radius);
+  /* 背景颜色 */
+  background: var(--cxl2020mc-card-bg);
+  /* 变动动画时长 */
+  transition: .3s;
+}
+
+/* 浅色模式评论区评论大框 */
+[data-theme=light] .twikoo .tk-comments-container>.tk-comment {
+  /* 阴影 */
+  box-shadow: var(--card-box-shadow);
+}
+
+/* 浅色模式评论区评论大框阴影悬浮加深 */
+[data-theme=light] .twikoo .tk-comments-container>.tk-comment:hover {
+  /* 阴影（浅色模式突出层次感） */
+  box-shadow: var(--card-hover-box-shadow);
+}
+
+/* 黑暗模式评论区评论大框 */
+[data-theme=dark] .twikoo .tk-comments-container>.tk-comment {
+  /* 边框样式 */
+  border-style: solid;
+  /* 边框宽度 */
+  border-width: var(--cxl2020mc-card-border-width);
+  /* 边框颜色 */
+  border-color: var(--cxl2020mc-card-border);
+}
+
+/* 设备信息 */
+.twikoo .tk-extra {
+  /* 圆角 */
+  border-radius: var(--cxl2020mc-radius);
+  /* 背景颜色 */
+  background: var(--cxl2020mc-card-bg);
+  /* 内边距 */
+  padding: 0.4rem;
+  /* 底边距 */
+  margin-bottom: 1rem;
+  /* 变动动画时长 */
+  transition: .3s;
+}
+
+/* 浅色模式设备信息 */
+[data-theme=light] .twikoo .tk-extra {
+  /* 阴影 */
+  box-shadow: var(--card-box-shadow);
+}
+
+/* 浅色模式设备信息阴影悬浮加深 */
+[data-theme=light] .twikoo .tk-extra:hover {
+  /* 阴影 */
+  box-shadow: var(--card-hover-box-shadow);
+}
+
+/* 黑暗模式设备信息 */
+[data-theme=dark] .twikoo .tk-extra {
+  /* 边框样式 */
+  border-style: solid;
+  /* 边框宽度 */
+  border-width: var(--cxl2020mc-card-border-width);
+  /* 边框颜色 */
+  border-color: var(--cxl2020mc-card-border);
+}
+
+/* 加载更多按钮 */
+.twikoo .tk-expand {
+  /* 圆角 */
+  border-radius: var(--cxl2020mc-radius);
+}
+
+/* 浅色模式加载更多按钮 */
+[data-theme=light] .twikoo .tk-expand {
+  /* 阴影 */
+  box-shadow: var(--card-box-shadow);
+}
+
+/* 浅色模式加载更多按钮（鼠标悬浮时） */
+[data-theme=light] .twikoo .tk-expand:hover {
+  /* 阴影 */
+  box-shadow: var(--card-hover-box-shadow);
+  /* 背景颜色 */
+  background-color: var(--btn-bg);
+}
+
+/* 黑暗模式加载更多按钮（鼠标悬浮时） */
+[data-theme=dark] .twikoo .tk-expand:hover {
+  /* 背景颜色 */
+  background-color: var(--cxl2020mc-blue);
+}
+
+/* 黑暗模式加载更多按钮 */
+[data-theme=dark] .twikoo .tk-expand {
+  /* 边框样式 */
+  border-style: solid;
+  /* 边框宽度 */
+  border-width: var(--cxl2020mc-card-border-width);
+  /* 边框颜色 */
+  border-color: var(--cxl2020mc-card-border);
+}
+
+
