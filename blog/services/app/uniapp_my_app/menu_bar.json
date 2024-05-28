@@ -10,22 +10,26 @@
 							{
 								"name": "修罗动漫",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
-								"link": "https://www.xiuluodm.com/"
+								"link": "https://www.xiuluodm.com/",
+				    				"search": "https://www.xiuluodm.com/vodsearch/-------------.html?wd="
 							},
 							{
 								"name": "次元方舟",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
-								"link": "https://www.cyfz.vip/"
+								"link": "https://www.cyfz.vip/",
+				    				"search": "https://www.cyfz.vip/search.html?wd="
 							},
 							{
 								"name": "FreeOk",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
-								"link": "https://www.freeok.vip/"
+								"link": "https://www.freeok.vip/",
+				    				"search": "https://www.freeok.vip/so1so/-------------.html?wd="
 							},
 							{
 								"name": "拖布影视",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
-								"link": "https://www.rainvi.com/"
+								"link": "https://www.rainvi.com/",
+				    				"search": "https://www.rainvi.com/index.php/vod/search.html?wd="
 							}
 						]
 					},
@@ -35,41 +39,49 @@
                             {
 								"name": "腾讯视频",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
-								"link": "https://m.v.qq.com/"
+								"link": "https://m.v.qq.com/",
+				    				"search": "https://m.v.qq.com/hippysearch/index.html#/result?query="
 							},{
 								"name": "爱奇艺",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
-								"link": "https://m.iqiyi.com/"
+								"link": "https://m.iqiyi.com/",
+				    				"search": "https://m.iqiyi.com/search.html?key="
 							},
 							{
 								"name": "优酷视频",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
-								"link": "https://www.youku.com/"
+								"link": "https://www.youku.com/",
+				    				"search": "https://search.youku.com/search_video?keyword="
 							},
                             {
 								"name": "AnFuns",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
-								"link": "https://www.anfuns.cc/"
+								"link": "https://www.anfuns.cc/",
+				    				"search": "https://www.anfuns.cc/search.html?wd="
 							},
 							{
 								"name": "芒果TV",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
-								"link": "https://m.mgtv.com/vip"
+								"link": "https://m.mgtv.com/vip",
+				    				"search": "https://m.mgtv.com/so/?k="
 							},
 							{
 								"name": "乐视视频",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
-								"link": "https://m.le.com/movie/"
+								"link": "https://m.le.com/movie/",
+				    				"search": "https://m.le.com/search?wd="
 							},
 							{
 								"name": "PPTV",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
-								"link": "https://m.pptv.com/"
+								"link": "https://m.pptv.com/",
+				    				"search": "https://msou.pptv.com/s_video/pg_result?keyword="
 							},
 							{
 								"name": "搜狐视频",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
-								"link": "https://m.tv.sohu.com/"
+								"link": "https://m.tv.sohu.com/",
+				    				"search": "https://m.tv.sohu.com/upload/h5/m/mso.html?key="
 							}
 						]
 					},
