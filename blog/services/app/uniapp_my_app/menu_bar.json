@@ -131,11 +131,7 @@
 					},
 					{
 						"menu_name": "视频解析",
-						"menu_list": [{
-								"name": "线路",
-								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
-								"link": "/pages/app-analyze-video/app-analyze-video"
-							},
+						"menu_list": [
 							{
 								"name": "动漫站点",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
@@ -147,9 +143,14 @@
 								"link": "https://ayouth.top/ayouth/video.html"
 							},
 							{
-								"name": "浏览器",
+								"name": "线路解析",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
-								"link": "https://www.lisect.com/"
+								"link": "/pages/app-analyze-video/app-analyze-video"
+							},
+							{
+								"name": "聚合搜索",
+								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+								"link": "/pages/app-aggregated-search/app-aggregated-search"
 							}
 						]
 					}
