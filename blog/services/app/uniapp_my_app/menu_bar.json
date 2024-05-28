@@ -75,7 +75,7 @@
 								"name": "PPTV",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.pptv.com/",
-				    				"search": "https://msou.pptv.com/s_video/pg_result?keyword="
+				    				"search": "https://sou.pptv.com/s_video?kw="
 							},
 							{
 								"name": "搜狐视频",
