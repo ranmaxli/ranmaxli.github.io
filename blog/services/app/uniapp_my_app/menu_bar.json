@@ -145,7 +145,7 @@
 							{
 								"name": "线路解析",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
-								"link": "/pages/app-analyze-video/app-analyze-video"
+								"link": "/pages/app-analyze/app-analyze"
 							},
 							{
 								"name": "聚合搜索",
