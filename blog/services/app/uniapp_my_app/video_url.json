@@ -1,53 +1,31 @@
-{
-  "resource_list": [
+[{
+		"name": "m3u8",
+		"address": "https://jx.m3u8.tv/jx/jx.php?url=",
+		"sorting": "99"
+	},
 	{
-      "resource": {
-        "name": "请选择解析线路",
-        "address": "https://jx.yangtu.top/?url=",
-        "sorting": "999"
-      }
-    },
-    {
-      "resource": {
-        "name": "m3u8",
-        "address": "https://jx.m3u8.tv/jx/jx.php?url=",
-        "sorting": "99"
-      }
-    },
-    {
-      "resource": {
-        "name": "咸鱼云",
-        "address": "https://jx.xyflv.cc/?url=",
-        "sorting": "98"
-      }
-    },
-    {
-      "resource": {
-        "name": "剖元",
-        "address": "https://jx.2s0.cn/player/?url=",
-        "sorting": "97"
-      }
-    },
-    {
-      "resource": {
-        "name": "虾米",
-        "address": "https://jx.xmflv.cc/?url=",
-        "sorting": "96"
-      }
-    },
-    {
-      "resource": {
-        "name": "纯净",
-        "address": "https://im1907.top/?jx=",
-        "sorting": "95"
-      }
-    },
-    {
-      "resource": {
-        "name": "B站",
-        "address": "https://jx.jsonplayer.com/player/?url=",
-        "sorting": "94"
-      }
-    }
-  ]
-}
+		"name": "咸鱼云",
+		"address": "https://jx.xyflv.cc/?url=",
+		"sorting": "98"
+	},
+	{
+		"name": "剖元",
+		"address": "https://jx.2s0.cn/player/?url=",
+		"sorting": "97"
+	},
+	{
+		"name": "虾米",
+		"address": "https://jx.xmflv.cc/?url=",
+		"sorting": "96"
+	},
+	{
+		"name": "纯净",
+		"address": "https://im1907.top/?jx=",
+		"sorting": "95"
+	},
+	{
+		"name": "B站",
+		"address": "https://jx.jsonplayer.com/player/?url=",
+		"sorting": "94"
+	}
+]
