@@ -45,11 +45,6 @@
 	},
 	{
 		"name": "m3u8-4",
-		"address": "https://www.mtosz.com/m3u8.php?url=",
-		"sort": 10
-	},
-	{
-		"name": "m3u8-5",
 		"address": "https://www.playm3u8.cn/jiexi.php?url=",
 		"sort": 11
 	},
@@ -77,11 +72,6 @@
 		"name": "we",
 		"address": "https://jx.we-vip.com/?url=",
 		"sort": 16
-	},
-	{
-		"name": "wtt",
-		"address": "https://jx.qqwtt.com/?url=",
-		"sort": 17
 	},
 	{
 		"name": "ckplayer",
@@ -117,11 +107,6 @@
 		"name": "冰豆",
 		"address": "https://api.qianqi.net/vip/?url=",
 		"sort": 24
-	},
-	{
-		"name": "人人",
-		"address": "https://vip.mpos.ren/v/?url=",
-		"sort": 25
 	},
 	{
 		"name": "阳图",
