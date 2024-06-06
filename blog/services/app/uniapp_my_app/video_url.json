@@ -1,181 +1,151 @@
 [{
-		"name": "jy-1",
-		"address": "https://jx.playerjy.com/?url=",
-		"sort": 1
-	},
-	{
-		"name": "jy-2",
-		"address": "https://jx.playerjy.com/?url=",
-		"sort": 2
-	},
-	{
 		"name": "1970-1",
 		"address": "https://im1907.top/?jx=",
-		"sort": 3
+		"sort": 1
 	},
 	{
 		"name": "1970-2",
 		"address": "https://z1.m1907.top/?jx=",
-		"sort": 4
+		"sort": 2
 	},
 	{
 		"name": "8090-1",
 		"address": "https://www.8090g.cn/?url=",
-		"sort": 5
+		"sort": 3
 	},
 	{
 		"name": "8090-2",
 		"address": "https://www.8090g.cn/jiexi/?url=",
-		"sort": 6
+		"sort": 4
 	},
 	{
 		"name": "8090-3",
 		"address": "https://www.8090g.cn/?url=",
-		"sort": 7
+		"sort": 5
 	},
 	{
 		"name": "8090-4",
 		"address": "https://www.8090.la/8090/?url=",
-		"sort": 8
-	},
-	{
-		"name": "ckplayer-1",
-		"address": "https://www.ckplayer.vip/jiexi/?url=",
-		"sort": 9
-	},
-	{
-		"name": "ckplayer-2",
-		"address": "https://www.ckplayer.vip/jiexi/?url=",
-		"sort": 10
-	},
-	{
-		"name": "ckplayer-3",
-		"address": "https://www.ckplayer.vip/jiexi/?url=",
-		"sort": 11
+		"sort": 6
 	},
 	{
 		"name": "m3u8-1",
 		"address": "https://jx.m3u8.tv/jiexi/?url=",
-		"sort": 12
+		"sort": 7
 	},
 	{
 		"name": "m3u8-2",
 		"address": "https://dmjx.m3u8.tv/?url=",
-		"sort": 13
+		"sort": 8
 	},
 	{
 		"name": "m3u8-3",
-		"address": "https://jx.m3u8.tv/jiexi/?url=",
-		"sort": 14
+		"address": "https://jx.m3u8.tv/jx/jx.php?url=",
+		"sort": 9
 	},
 	{
 		"name": "m3u8-4",
-		"address": "https://jx.m3u8.tv/jx/jx.php?url=",
-		"sort": 15
+		"address": "https://www.mtosz.com/m3u8.php?url=",
+		"sort": 10
 	},
 	{
 		"name": "m3u8-5",
-		"address": "https://www.mtosz.com/m3u8.php?url=",
-		"sort": 16
-	},
-	{
-		"name": "m3u8-6",
 		"address": "https://www.playm3u8.cn/jiexi.php?url=",
-		"sort": 17
+		"sort": 11
 	},
 	{
 		"name": "虾米1",
 		"address": "https://jx.xmflv.com/?url=",
-		"sort": 18
+		"sort": 12
 	},
 	{
 		"name": "虾米2",
 		"address": "https://jx.xmflv.cc/?url=",
-		"sort": 19
+		"sort": 13
 	},
 	{
-		"name": "云析-1",
-		"address": "https://jx.yparse.com/index.php?url=",
-		"sort": 20
-	},
-	{
-		"name": "云析-2",
-		"address": "https://jx.yparse.com/index.php?url=",
-		"sort": 21
+		"name": "jy",
+		"address": "https://jx.playerjy.com/?url=",
+		"sort": 14
 	},
 	{
 		"name": "bl",
 		"address": "https://vip.bljiex.com/?v=",
-		"sort": 22
+		"sort": 15
 	},
 	{
 		"name": "we",
 		"address": "https://jx.we-vip.com/?url=",
-		"sort": 23
+		"sort": 16
 	},
 	{
 		"name": "wtt",
 		"address": "https://jx.qqwtt.com/?url=",
-		"sort": 24
+		"sort": 17
+	},
+	{
+		"name": "ckplayer",
+		"address": "https://www.ckplayer.vip/jiexi/?url=",
+		"sort": 18
 	},
 	{
 		"name": "B站",
 		"address": "https://jx.js",
-		"sort": 25
+		"sort": 19
+	},
+	{
+		"name": "云析",
+		"address": "https://jx.yparse.com/index.php?url=",
+		"sort": 20
 	},
 	{
 		"name": "破云",
 		"address": "https://www.pouyun.com/?url=",
-		"sort": 26
+		"sort": 21
 	},
 	{
 		"name": "盘古",
 		"address": "https://www.pangujiexi.com/jiexi/?url=",
-		"sort": 27
+		"sort": 22
 	},
 	{
 		"name": "夜幕",
 		"address": "https://www.yemu.xyz/?url=",
-		"sort": 28
+		"sort": 23
 	},
 	{
 		"name": "冰豆",
 		"address": "https://api.qianqi.net/vip/?url=",
-		"sort": 29
+		"sort": 24
 	},
 	{
 		"name": "人人",
 		"address": "https://vip.mpos.ren/v/?url=",
-		"sort": 30
-	},
-	{
-		"name": "千骑",
-		"address": "https://api.qianqi.net/vip/?url=",
-		"sort": 31
+		"sort": 25
 	},
 	{
 		"name": "阳图",
 		"address": "https://jx.yangtu.top/?url=",
-		"sort": 32
+		"sort": 26
 	},
 	{
 		"name": "剖元",
 		"address": "https://jx.2s0.cn/player/?url=",
-		"sort": 33
+		"sort": 27
 	},
 	{
 		"name": "风影阁",
 		"address": "https://movie.heheda.top/?v=",
-		"sort": 34
+		"sort": 28
 	},
 	{
 		"name": "玩的嗨",
 		"address": "http://vip.wandhi.com/?v=",
-		"sort": 35
+		"sort": 29
 	},
 	{
 		"name": "咸鱼云",
 		"address": "https://jx.xyflv.cc/?url=",
-		"sort": 36
+		"sort": 30
 	}
 ]
