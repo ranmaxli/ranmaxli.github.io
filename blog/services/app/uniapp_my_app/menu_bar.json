@@ -150,7 +150,7 @@
 							{
 								"name": "聚合搜索",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
-								"link": "/pages/app-aggregated-search/app-aggregated-search"
+								"link": "/pages/app-aggregated/app-aggregated"
 							}
 						]
 					}
