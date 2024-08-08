@@ -156,7 +156,7 @@
 		},
 		{
 			"first_menu": {
-				"permission": "admin",
+				"permission": "gpt,admin",
 				"description": "chatGPT",
 				"background_image": "",
 				"second_menu": [{
