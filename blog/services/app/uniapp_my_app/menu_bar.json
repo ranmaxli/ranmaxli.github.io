@@ -6,82 +6,80 @@
 				"background_image": "",
 				"second_menu": [{
 						"menu_name": "免费视频",
-						"menu_list": [
-							{
+						"menu_list": [{
 								"name": "修罗动漫",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
 								"link": "https://www.xiuluodm.com/",
-				    				"search": "https://www.xiuluodm.com/vodsearch/-------------.html?wd="
+								"search": "https://www.xiuluodm.com/vodsearch/-------------.html?wd="
 							},
 							{
 								"name": "次元方舟",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
 								"link": "https://www.cyfz.vip/",
-				    				"search": "https://www.cyfz.vip/search.html?wd="
+								"search": "https://www.cyfz.vip/search.html?wd="
 							},
 							{
 								"name": "FreeOk",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
 								"link": "https://www.freeok.vip/",
-				    				"search": "https://www.freeok.vip/so1so/-------------.html?wd="
+								"search": "https://www.freeok.vip/so1so/-------------.html?wd="
 							},
 							{
 								"name": "拖布影视",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
 								"link": "https://www.rainvi.com/",
-				    				"search": "https://www.rainvi.com/index.php/vod/search.html?wd="
+								"search": "https://www.rainvi.com/index.php/vod/search.html?wd="
 							}
 						]
 					},
 					{
 						"menu_name": "优质视频",
-						"menu_list": [
-                            {
+						"menu_list": [{
 								"name": "腾讯视频",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.v.qq.com/",
-				    				"search": "https://m.v.qq.com/hippysearch/index.html#/result?query="
-							},{
+								"search": "https://m.v.qq.com/hippysearch/index.html#/result?query="
+							}, {
 								"name": "爱奇艺",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.iqiyi.com/",
-				    				"search": "https://m.iqiyi.com/search.html?key="
+								"search": "https://m.iqiyi.com/search.html?key="
 							},
 							{
 								"name": "优酷视频",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://www.youku.com/",
-				    				"search": "https://search.youku.com/search_video?keyword="
+								"search": "https://search.youku.com/search_video?keyword="
 							},
-                            {
+							{
 								"name": "AnFuns",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://www.anfuns.cc/",
-				    				"search": "https://www.anfuns.cc/search.html?wd="
+								"search": "https://www.anfuns.cc/search.html?wd="
 							},
 							{
 								"name": "芒果TV",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.mgtv.com/vip",
-				    				"search": "https://m.mgtv.com/so/?k="
+								"search": "https://m.mgtv.com/so/?k="
 							},
 							{
 								"name": "乐视视频",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.le.com/movie/",
-				    				"search": "https://m.le.com/search?wd="
+								"search": "https://m.le.com/search?wd="
 							},
 							{
 								"name": "PPTV",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.pptv.com/",
-				    				"search": "https://sou.pptv.com/s_video?kw="
+								"search": "https://sou.pptv.com/s_video?kw="
 							},
 							{
 								"name": "搜狐视频",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
 								"link": "https://m.tv.sohu.com/",
-				    				"search": "https://m.tv.sohu.com/upload/h5/m/mso.html?key="
+								"search": "https://m.tv.sohu.com/upload/h5/m/mso.html?key="
 							}
 						]
 					},
@@ -131,8 +129,7 @@
 					},
 					{
 						"menu_name": "视频解析",
-						"menu_list": [
-							{
+						"menu_list": [{
 								"name": "动漫站点",
 								"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
 								"link": "https://ayouth.top/ayouth/animation.html"
@@ -155,6 +152,90 @@
 						]
 					}
 				]
+			}
+		},
+		{
+			"first_menu": {
+				"permission": "admin",
+				"description": "chatGPT",
+				"background_image": "",
+				"second_menu": [{
+					"menu_name": "GPT免登录",
+					"menu_list": [{
+							"name": "在问",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://www.zaiwen.top/chat/working-edition"
+						},
+						{
+							"name": "海螺",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://hailuoai.com/"
+						},
+						{
+							"name": "chat18",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://chat18.aichatos8.com/#/chat"
+						},
+						{
+							"name": "天工",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://www.tiangong.cn/"
+						}
+					]
+				}, {
+					"menu_name": "GPT",
+					"menu_list": [{
+							"name": "豆包",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://www.doubao.com/chat/"
+						},
+						{
+							"name": "讯飞",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://xinghuo.xfyun.cn/desk"
+						},
+						{
+							"name": "通义",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://tongyi.aliyun.com/qianwen/"
+						},
+						{
+							"name": "清言",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://chatglm.cn/main/alltoolsdetail"
+						},
+						{
+							"name": "百小应",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://ying.baichuan-ai.com/chat?from=home"
+						},
+						{
+							"name": "一言",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://yiyan.baidu.com/"
+						},
+						{
+							"name": "元宝",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://yuanbao.tencent.com/chat/"
+						},
+						{
+							"name": "一格",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://yige.baidu.com/"
+						},
+						{
+							"name": "元器",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://yuanqi.tencent.com/"
+						},
+						{
+							"name": "阿水",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "https://ai.ashuiai.com/home"
+						}
+					]
+				}]
 			}
 		},
 		{
