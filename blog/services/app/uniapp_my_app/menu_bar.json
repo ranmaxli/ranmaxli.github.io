@@ -240,6 +240,37 @@
 		},
 		{
 			"first_menu": {
+				"permission": "service,admin",
+				"description": "服务器",
+				"background_image": "",
+				"second_menu": {
+					"menu_name": "服务器",
+					"menu_list": [{
+							"name": "线上服务",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "http://3p1g731906.imdo.co/030bed84"
+						},
+						{
+							"name": "本地服务",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "http://192.168.1.111:7800/030bed84"
+						},
+						{
+							"name": "本地网盘",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "http://192.168.1.111:8000/login"
+						},
+						{
+							"name": "本地迅雷",
+							"icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+							"link": "http://192.168.1.111:8002/webman/3rdparty/pan-xunlei-com/index.cgi/#/home"
+						}
+					]
+				}
+			}
+		},
+		{
+			"first_menu": {
 				"permission": "yangjie,admin",
 				"description": "杨杰保温箱项目展示",
 				"background_image": "",
