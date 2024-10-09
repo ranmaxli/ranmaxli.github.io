@@ -1,0 +1,14 @@
+[
+    {"name": "mgtv.com", "address": "https://m.mgtv.com/so/?k=", "sort": 1},
+    {"name": "v.qq.com", "address": "https://m.v.qq.com/hippysearch/index.html#/result?query=", "sort": 2},
+    {"name": "iqiyi.com", "address": "https://m.iqiyi.com/search.html?key=", "sort": 3},
+    {"name": "youku.com", "address": "https://search.youku.com/search_video?keyword=", "sort": 4},
+    {"name": "anfuns.cc", "address": "https://www.anfuns.cc/search.html?wd=", "sort": 5},
+    {"name": "tv.sohu.com", "address": "https://m.tv.sohu.com/upload/h5/m/mso.html?key=", "sort": 6},
+    {"name": "le.com", "address": "https://m.le.com/search?wd=", "sort": 7},
+    {"name": "xiuluodm.com", "address": "https://www.xiuluodm.com/vodsearch/-------------.html?wd=", "sort": 8},
+    {"name": "freeok.vip", "address": "https://www.freeok.vip/so1so/-------------.html?wd=", "sort": 9},
+    {"name": "rainvi.com", "address": "https://www.rainvi.com/index.php/vod/search.html?wd=", "sort": 10},
+    {"name": "cyfz.vip", "address": "https://www.cyfz.vip/search.html?wd=", "sort": 11},
+    {"name": "pptv.com", "address": "https://sou.pptv.com/s_video?kw=", "sort": 12}
+]
