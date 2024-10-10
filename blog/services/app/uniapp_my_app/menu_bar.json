@@ -237,61 +237,65 @@
         "permission": "service,admin",
         "description": "服务器",
         "background": "",
-        "menu": {
-            "name": "服务器",
-            "list": [
-                {
-                    "name": "线上服务",
-                    "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
-                    "address": "http://3p1g731906.imdo.co/030bed84"
-                },
-                {
-                    "name": "本地服务",
-                    "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
-                    "address": "http://192.168.1.111:7800/030bed84"
-                },
-                {
-                    "name": "本地网盘",
-                    "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
-                    "address": "http://192.168.1.111:8000/login"
-                },
-                {
-                    "name": "本地迅雷",
-                    "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
-                    "address": "http://192.168.1.111:8002/webman/3rdparty/pan-xunlei-com/index.cgi/#/home"
-                }
-            ]
-        }
+        "menu": [
+            {
+                "name": "服务器",
+                "list": [
+                    {
+                        "name": "线上服务",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+                        "address": "http://3p1g731906.imdo.co/030bed84"
+                    },
+                    {
+                        "name": "本地服务",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+                        "address": "http://192.168.1.111:7800/030bed84"
+                    },
+                    {
+                        "name": "本地网盘",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+                        "address": "http://192.168.1.111:8000/login"
+                    },
+                    {
+                        "name": "本地迅雷",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+                        "address": "http://192.168.1.111:8002/webman/3rdparty/pan-xunlei-com/index.cgi/#/home"
+                    }
+                ]
+            }
+        ]
     },
     {
         "permission": "yangjie,admin",
         "description": "杨杰保温箱项目展示",
         "background": "",
-        "menu": {
-            "name": "监控指标",
-            "list": [
-                {
-                    "name": "保温箱监控",
-                    "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
-                    "address": "/pages/app-goods-list/app-goods-list"
-                },
-                {
-                    "name": "箱体定位",
-                    "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
-                    "address": "/pages/app-list/app-list"
-                },
-                {
-                    "name": "实时数据",
-                    "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
-                    "address": "/pages/app-health/app-health"
-                },
-                {
-                    "name": "地图定位",
-                    "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
-                    "address": "/pages/app-map/app-map"
-                }
-            ]
-        }
+        "menu": [
+            {
+                "name": "监控指标",
+                "list": [
+                    {
+                        "name": "保温箱监控",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+                        "address": "/pages/app-goods-list/app-goods-list"
+                    },
+                    {
+                        "name": "箱体定位",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+                        "address": "/pages/app-list/app-list"
+                    },
+                    {
+                        "name": "实时数据",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+                        "address": "/pages/app-health/app-health"
+                    },
+                    {
+                        "name": "地图定位",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+                        "address": "/pages/app-map/app-map"
+                    }
+                ]
+            }
+        ]
     },
     {
         "permission": "guest",
