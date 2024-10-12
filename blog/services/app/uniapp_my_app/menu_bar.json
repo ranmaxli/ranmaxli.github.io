@@ -34,42 +34,42 @@
                 "list": [
                     {
                         "name": "腾讯视频",
-                        "icon": "https://files.codelife.cc/icons/qqvideo.svg",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/tengxun.png",
                         "address": "https://m.v.qq.com/"
                     },
                     {
                         "name": "爱奇艺",
-                        "icon": "https://files.codelife.cc/icons/iqiyi.svg",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/iqiyi.png",
                         "address": "https://m.iqiyi.com/"
                     },
                     {
                         "name": "优酷视频",
-                        "icon": "https://files.codelife.cc/icons/youku.svg",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/youku.png",
                         "address": "https://www.youku.com/"
                     },
                     {
                         "name": "AnFuns",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/anfun.png",
                         "address": "https://www.anfuns.cc/"
                     },
                     {
                         "name": "芒果TV",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/mangguo.png",
                         "address": "https://m.mgtv.com/vip"
                     },
                     {
                         "name": "乐视视频",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/leshi.png",
                         "address": "https://m.le.com/movie/"
                     },
                     {
                         "name": "PPTV",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/pptv.png",
                         "address": "https://m.pptv.com/"
                     },
                     {
                         "name": "搜狐视频",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/souhu.png",
                         "address": "https://m.tv.sohu.com/"
                     }
                 ]
