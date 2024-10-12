@@ -34,17 +34,17 @@
                 "list": [
                     {
                         "name": "腾讯视频",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+                        "icon": "https://files.codelife.cc/icons/qqvideo.svg",
                         "address": "https://m.v.qq.com/"
                     },
                     {
                         "name": "爱奇艺",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+                        "icon": "https://files.codelife.cc/icons/iqiyi.svg",
                         "address": "https://m.iqiyi.com/"
                     },
                     {
                         "name": "优酷视频",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+                        "icon": "https://files.codelife.cc/icons/youku.svg",
                         "address": "https://www.youku.com/"
                     },
                     {
