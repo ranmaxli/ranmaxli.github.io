@@ -77,44 +77,44 @@
             {
                 "name": "直播平台",
                 "list": [
-                    {
-                        "name": "英雄联盟",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
-                        "address": "https://lpl.qq.com/"
+					{
+                        "name": "抖音",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/douyin.png",
+                        "address": "https://www.douyin.com/?is_from_mobile_home=1&recommend=1"
                     },
-                    {
-                        "name": "新闻看看",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
-                        "address": "https://m.kankanews.com/live"
+					{
+                        "name": "B站",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/bilibili.png",
+                        "address": "https://m.bilibili.com"
                     },
-                    {
+					{
                         "name": "斗鱼直播",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/douyu.png",
                         "address": "https://m.douyu.com/"
                     },
                     {
                         "name": "虎牙直播",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/huya.png",
                         "address": "https://m.huya.com/"
+                    },
+					{
+                        "name": "YY直播",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/yy.png",
+                        "address": "https://wap.yy.com/"
+                    },
+					{
+                        "name": "网易视频",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wangyi.png",
+                        "address": " https://v.163.com/"
                     },
                     {
                         "name": "战旗直播",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/zhanqi.png",
                         "address": "https://m.zhanqi.tv/"
                     },
                     {
-                        "name": "体育直播",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
-                        "address": "https://www.zhibo.tv/"
-                    },
-                    {
-                        "name": "网易视频",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
-                        "address": " https://m.163.com/"
-                    },
-                    {
                         "name": "直播吧",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_2.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/8.png",
                         "address": "https://m.zhibo8.com/"
                     }
                 ]
