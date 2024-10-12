@@ -8,23 +8,23 @@
                 "name": "免费视频",
                 "list": [
                     {
-                        "name": "修罗动漫",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
+                        "name": "樱花动漫",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/yinhua.png",
                         "address": "https://www.xiuluodm.com/"
                     },
                     {
                         "name": "次元方舟",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/fangzhou.png",
                         "address": "https://www.cyfz.vip/"
                     },
                     {
-                        "name": "FreeOk",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
-                        "address": "https://www.freeok.vip/"
+                        "name": "animoe",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/a.png",
+                        "address": "https://animoe.org/"
                     },
                     {
                         "name": "拖布影视",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_1.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/tuobu.png",
                         "address": "https://www.rainvi.com/"
                     }
                 ]
@@ -124,22 +124,22 @@
                 "list": [
                     {
                         "name": "动漫站点",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/dongman.png",
                         "address": "https://ayouth.top/ayouth/animation.html"
                     },
                     {
                         "name": "影视站点",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/move.png",
                         "address": "https://ayouth.top/ayouth/video.html"
                     },
                     {
                         "name": "线路解析",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/line.png",
                         "address": "/pages/app-analyze/app-analyze"
                     },
                     {
                         "name": "聚合搜索",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wdgn_3.png",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/search.png",
                         "address": "/pages/app-aggregated-search/app-aggregated-search"
                     }
                 ]
