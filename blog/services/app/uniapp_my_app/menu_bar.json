@@ -103,9 +103,9 @@
                         "address": "https://wap.yy.com/"
                     },
 					{
-                        "name": "网易视频",
-                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/wangyi.png",
-                        "address": " https://v.163.com/"
+                        "name": "A站",
+                        "icon": "https://ranmaxli.github.io/blog/services/app/uniapp_my_app/png/acfun.png",
+                        "address": " https://m.acfun.cn/"
                     },
                     {
                         "name": "战旗直播",
